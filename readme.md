@@ -77,6 +77,10 @@ IV. References
 	
 [4] Xbee Starter Guide
 	http://www.tristantech.net/articles/xbee_tutorial/1.php
+	
+[5] XCTU wifi hookup guide
+	https://learn.sparkfun.com/tutorials/xbee-wifi-hookup-guide/using-x-ctu
+	http://examples.digi.com/get-started/configuring-xbee-radios-with-x-ctu/
 
 
 
